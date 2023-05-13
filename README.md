@@ -1,4 +1,8 @@
-# Apm
+# Oran Prectice Angular
+Here is a bit of what i made :
+![image](https://github.com/OranFrydman/AngularPractice/assets/111463767/9f90c831-e6ca-4dba-97af-4130891f3043)
+
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.3.
 
